@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+
+paddleocr
+paddlepaddle
+
+pdf2image
+Pillow
+opencv-python
+
+numpy
+python-dotenv
